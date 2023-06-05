@@ -1,0 +1,60 @@
+
+
+.parent
+{
+    margin-top: 30px;
+    display:flex;
+   
+}
+
+.cat
+{
+   
+    align-items: center;
+    margin:20px;
+    width: 20%;
+
+    
+
+   
+  
+}
+
+a{
+    text-decoration: none;
+   
+}
+
+.photo
+{
+   
+    align-items: center;
+ 
+    margin:20px;
+    width: 80%;
+    
+}
+.photo div{
+    
+    margin: 20px;
+ 
+}
+
+.images
+{
+  
+    
+  display: inline-block;
+    padding:20px;
+   
+}
+.gov
+{
+    margin-top: 0px;
+}
+div
+{
+    margin-top: 20px;
+}
+
+

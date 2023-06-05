@@ -1,0 +1,40 @@
+.container
+{
+    margin-top: 100px;
+    display:flex;
+    
+    
+   
+
+}
+.imgL
+{
+   
+    align-items: center;
+    margin:20px;
+    width: 20%;
+    margin-right: 100px;;
+    
+
+   
+  
+}
+.input-element{
+
+    width: 200px;
+    height:200px;
+    }
+    
+
+.imgDesc
+{
+   
+    align-items: center;
+    margin:20px;
+    width: 20%;
+    
+}
+.userInfo
+{
+    margin:20px;
+}
